@@ -1,0 +1,146 @@
+Color Name,Hex,RGB,group
+Maroon,#800000,"(128, 0, 0)",red
+Olive,#808000,"(128, 128, 0)",red
+Green,#008000,"(0, 128, 0)",red
+Purple,#800080,"(128, 0, 128)",red
+Teal,#008080,"(0, 128, 128)",red
+Navy,#000080,"(0, 0, 128)",red
+maroon,#800000,"(128, 0, 0)",red
+dark red,#8B0000,"(139, 0, 0)",red
+brown,#A52A2A,"(165, 42, 42)",red
+firebrick,#B22222,"(178, 34, 34)",red
+crimson,#DC143C,"(220, 20, 60)",red
+red,#FF0000,"(255, 0, 0)",red
+tomato,#FF6347,"(255, 99, 71)",red
+coral,#FF7F50,"(255, 127, 80)",red
+indian red,#CD5C5C,"(205, 92, 92)",red
+light coral,#F08080,"(240, 128, 128)",red
+dark salmon,#E9967A,"(233, 150, 122)",red
+salmon,#FA8072,"(250, 128, 114)",red
+light salmon,#FFA07A,"(255, 160, 122)",red
+orange red,#FF4500,"(255, 69, 0)",orange
+dark orange,#FF8C00,"(255, 140, 0)",orange
+orange,#FFA500,"(255, 165, 0)",orange
+gold,#FFD700,"(255, 215, 0)",gold
+dark golden rod,#B8860B,"(184, 134, 11)",gold
+golden rod,#DAA520,"(218, 165, 32)",gold
+pale golden rod,#EEE8AA,"(238, 232, 170)",gold
+dark khaki,#BDB76B,"(189, 183, 107)",others
+khaki,#F0E68C,"(240, 230, 140)",others
+olive,#808000,"(128, 128, 0)",others
+yellow,#FFFF00,"(255, 255, 0)",yellow
+yellow green,#9ACD32,"(154, 205, 50)",green
+dark olive green,#556B2F,"(85, 107, 47)",green
+olive drab,#6B8E23,"(107, 142, 35)",green
+lawn green,#7CFC00,"(124, 252, 0)",green
+chartreuse,#7FFF00,"(127, 255, 0)",green
+green yellow,#ADFF2F,"(173, 255, 47)",green
+dark green,#006400,"(0, 100, 0)",green
+green,#008000,"(0, 128, 0)",green
+forest green,#228B22,"(34, 139, 34)",green
+lime,#00FF00,"(0, 255, 0)",green
+lime green,#32CD32,"(50, 205, 50)",green
+light green,#90EE90,"(144, 238, 144)",green
+pale green,#98FB98,"(152, 251, 152)",green
+dark sea green,#8FBC8F,"(143, 188, 143)",green
+medium spring green,#00FA9A,"(0, 250, 154)",green
+spring green,#00FF7F,"(0, 255, 127)",green
+sea green,#2E8B57,"(46, 139, 87)",green
+medium aqua marine,#66CDAA,"(102, 205, 170)",green
+medium sea green,#3CB371,"(60, 179, 113)",green
+light sea green,#20B2AA,"(32, 178, 170)",green
+dark slate gray,#2F4F4F,"(47, 79, 79)",gray
+teal,#008080,"(0, 128, 128)",teal
+dark cyan,#008B8B,"(0, 139, 139)",cyan
+aqua,#00FFFF,"(0, 255, 255)",cyan
+cyan,#00FFFF,"(0, 255, 255)",cyan
+light cyan,#E0FFFF,"(224, 255, 255)",cyan
+dark turquoise,#00CED1,"(0, 206, 209)",cyan
+turquoise,#40E0D0,"(64, 224, 208)",cyan
+medium turquoise,#48D1CC,"(72, 209, 204)",cyan
+pale turquoise,#AFEEEE,"(175, 238, 238)",cyan
+aqua marine,#7FFFD4,"(127, 255, 212)",cyan
+powder blue,#B0E0E6,"(176, 224, 230)",cyan
+cadet blue,#5F9EA0,"(95, 158, 160)",light blue
+steel blue,#4682B4,"(70, 130, 180)",light blue
+corn flower blue,#6495ED,"(100, 149, 237)",light blue
+deep sky blue,#00BFFF,"(0, 191, 255)",light blue
+dodger blue,#1E90FF,"(30, 144, 255)",light blue
+light blue,#ADD8E6,"(173, 216, 230)",light blue
+sky blue,#87CEEB,"(135, 206, 235)",light blue
+light sky blue,#87CEFA,"(135, 206, 250)",light blue
+midnight blue,#191970,"(25, 25, 112)",blue
+navy,#000080,"(0, 0, 128)",blue
+dark blue,#00008B,"(0, 0, 139)",blue
+medium blue,#0000CD,"(0, 0, 205)",blue
+blue,#0000FF,"(0, 0, 255)",blue
+royal blue,#4169E1,"(65, 105, 225)",blue
+blue violet,#8A2BE2,"(138, 43, 226)",indigo
+indigo,#4B0082,"(75, 0, 130)",indigo
+dark slate blue,#483D8B,"(72, 61, 139)",indigo
+slate blue,#6A5ACD,"(106, 90, 205)",indigo
+medium slate blue,#7B68EE,"(123, 104, 238)",indigo
+medium purple,#9370DB,"(147, 112, 219)",indigo
+dark magenta,#8B008B,"(139, 0, 139)",purple
+dark violet,#9400D3,"(148, 0, 211)",purple
+dark orchid,#9932CC,"(153, 50, 204)",purple
+medium orchid,#BA55D3,"(186, 85, 211)",purple
+purple,#800080,"(128, 0, 128)",purple
+thistle,#D8BFD8,"(216, 191, 216)",purple
+plum,#DDA0DD,"(221, 160, 221)",pink
+violet,#EE82EE,"(238, 130, 238)",pink
+magenta,#FF00FF,"(255, 0, 255)",pink
+orchid,#DA70D6,"(218, 112, 214)",pink
+medium violet red,#C71585,"(199, 21, 133)",pink
+pale violet red,#DB7093,"(219, 112, 147)",pink
+deep pink,#FF1493,"(255, 20, 147)",pink
+hot pink,#FF69B4,"(255, 105, 180)",pink
+light pink,#FFB6C1,"(255, 182, 193)",pink
+pink,#FFC0CB,"(255, 192, 203)",pink
+antique white,#FAEBD7,"(250, 235, 215)",white
+beige,#F5F5DC,"(245, 245, 220)",white
+bisque,#FFE4C4,"(255, 228, 196)",white
+blanched almond,#FFEBCD,"(255, 235, 205)",white
+wheat,#F5DEB3,"(245, 222, 179)",white
+corn silk,#FFF8DC,"(255, 248, 220)",white
+lemon chiffon,#FFFACD,"(255, 250, 205)",white
+light golden rod yellow,#FAFAD2,"(250, 250, 210)",white
+light yellow,#FFFFE0,"(255, 255, 224)",white
+saddle brown,#8B4513,"(139, 69, 19)",brown
+sienna,#A0522D,"(160, 82, 45)",brown
+chocolate,#D2691E,"(210, 105, 30)",brown
+peru,#CD853F,"(205, 133, 63)",brown
+sandy brown,#F4A460,"(244, 164, 96)",brown
+burly wood,#DEB887,"(222, 184, 135)",brown
+tan,#D2B48C,"(210, 180, 140)",brown
+rosy brown,#BC8F8F,"(188, 143, 143)",brown
+moccasin,#FFE4B5,"(255, 228, 181)",brown
+navajo white,#FFDEAD,"(255, 222, 173)",brown
+peach puff,#FFDAB9,"(255, 218, 185)",brown
+misty rose,#FFE4E1,"(255, 228, 225)",white
+lavender blush,#FFF0F5,"(255, 240, 245)",white
+linen,#FAF0E6,"(250, 240, 230)",white
+old lace,#FDF5E6,"(253, 245, 230)",white
+papaya whip,#FFEFD5,"(255, 239, 213)",white
+sea shell,#FFF5EE,"(255, 245, 238)",white
+mint cream,#F5FFFA,"(245, 255, 250)",white
+slate gray,#708090,"(112, 128, 144)",gray
+light slate gray,#778899,"(119, 136, 153)",gray
+light steel blue,#B0C4DE,"(176, 196, 222)",gray
+lavender,#E6E6FA,"(230, 230, 250)",white
+floral white,#FFFAF0,"(255, 250, 240)",white
+alice blue,#F0F8FF,"(240, 248, 255)",white
+ghost white,#F8F8FF,"(248, 248, 255)",white
+honeydew,#F0FFF0,"(240, 255, 240)",white
+ivory,#FFFFF0,"(255, 255, 240)",white
+azure,#F0FFFF,"(240, 255, 255)",white
+snow,#FFFAFA,"(255, 250, 250)",white
+black,#000000,"(0, 0, 0)",black
+dim gray / dim grey,#696969,"(105, 105, 105)",gray
+gray / grey,#808080,"(128, 128, 128)",gray
+dark gray / dark grey,#A9A9A9,"(169, 169, 169)",gray
+silver,#C0C0C0,"(192, 192, 192)",gray
+light gray / light grey,#D3D3D3,"(211, 211, 211)",gray
+gainsboro,#DCDCDC,"(220, 220, 220)",gray
+white smoke,#F5F5F5,"(245, 245, 245)",white
+white,#FFFFFF,"(255, 255, 255)",white
