@@ -7,7 +7,7 @@ It uses Yolo v8 segmentation to generate image masks and apply masks in the imag
 This file uses K Means clustering to generate clusters of colors in the image.
 Then its compares the color of the clusters against a target color and displays image of a color with the minimun difference.
 
-#3. pixel_colors.py
+# 3. pixel_colors.py
 This file uses a color dataset to analyse the pixel content of the image.
 Each pixels color value is compared against the colors in the dataset to calculate in which class the color belong to.
 The information of each pixel is then stored in a dataframe and then as a csv file.
